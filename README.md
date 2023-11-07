@@ -14,9 +14,10 @@ In order to tackle this, we aim to solve specific coding challenges individually
 Ideally, each individual challenge comes from someones own project such that the different solutions might even benefit them. This will not always be possible in which case the organizers will step in to create something fun for you. However, this might be something math related (sorry about that :wink:). About the challenges:
 - They should be solvable in a short amount of time (e.g. less than one hour)
 - They should be pitched by their creator, i.e. either ...
-    - ... pushed directly as Markdown file on the Github repo in a separate directory
+    - ... pushed directly as Markdown file (`README.md`) on the Github repo in a separate directory
     - ... posted in Mattermost in some form
     - ... brought to the organizers discretely if it is wanted
+
 
 ## Meetings
 
