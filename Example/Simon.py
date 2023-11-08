@@ -1,12 +1,12 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-def gradient_descent(f, df, x, xmin, xmax, α  = 0.3, tol = 1e-4, maxiter = 50):
+def gradient_descent(f, df, x, xmin, xmax, lr  = 0.3, tol = 1e-4, maxiter = 50):
 
     x_history = [x]
     f_history = [f(x)]
     while np.linalg.norm(df(x)) > tol:
-        x = x - α*df(x)
+        x = x - lr*df(x)
         x_history.append(x)
         f_history.append(f(x))
         if len(x_history) > maxiter:
@@ -15,7 +15,7 @@ def gradient_descent(f, df, x, xmin, xmax, α  = 0.3, tol = 1e-4, maxiter = 50):
 
     return x, f(x), x_history, f_history
 
-def visualize_gradient_descent_paths(f, df, x_arr, xmin, xmax, α  = 0.3, tol = 1e-4, maxiter = 50):
+def visualize_gradient_descent_paths(f, df, x_arr, xmin, xmax, lr  = 0.3, tol = 1e-4, maxiter = 50):
     # Plot the function
     x1 = np.linspace(xmin[0],xmax[0],100)
     x2 = np.linspace(xmin[1],xmax[1],100)
@@ -29,9 +29,9 @@ def visualize_gradient_descent_paths(f, df, x_arr, xmin, xmax, α  = 0.3, tol = 
 
     # Plot the trajectories of the algorithm
     for x0 in x_arr:
-        x, fmin, x_history, f_history = gradient_descent(f, df, x0, xmin, xmax, α, tol, maxiter)
+        x, fmin, x_history, f_history = gradient_descent(f, df, x0, xmin, xmax, lr, tol, maxiter)
         for i in range(len(x_history)-1):
-            plt.quiver(*x_history[i], *-α*df(x_history[i]), angles='xy', scale_units='xy', scale=1, color='k', alpha = 0.75)
+            plt.quiver(*x_history[i], *-lr*df(x_history[i]), angles='xy', scale_units='xy', scale=1, color='k', alpha = 0.75)
     
     plt.show()
     return
