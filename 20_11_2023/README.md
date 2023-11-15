@@ -12,7 +12,7 @@ Unfortunately, the images are missing their annotation which should give the rea
 
 ## Challenge
 
-Find a way to annotate these images in such a way that the user won't have to do it by hand. Use whatever you want to solve this, i.e. programming related or specific software/websites. However, keep in mind that this should also be applicable for images of different sizes and arrangements. Try your solution for the two pictures included in this directory.
+Find a way to annotate these images in such a way that the user won't have to do it by hand. Use whatever you want to solve this, i.e. programming related or specific software/websites. However, keep in mind that this should also be applicable for images of different sizes and arrangements. Try your solution for the two pictures included in this directory `NACH MONENSINMontage of Untitled-1.png` and `beta-tox.tif`.
 
 ## Meeting
 
