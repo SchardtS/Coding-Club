@@ -21,7 +21,7 @@ Ideally, each individual challenge comes from someones own project such that the
 
 ## Meetings
 
-We aim for voluntary bi-weekly Zoom meetings in which we discuss the different solutions provided by the participants. The meetings should be roughly one hour long, therefore not everyone might be able to showcase their work. Still we want to encourage everyone to volunteer especially if ...
+We aim for voluntary bi-weekly Zoom meetings (Mondays 13:00) in which we discuss the different solutions provided by the participants. The meetings should be roughly one hour long, therefore not everyone might be able to showcase their work. Still we want to encourage everyone to volunteer especially if ...
 - ... you encounter difficulties solving the problem (involving the group might improve understanding of specific concepts)
 - ... you are confident in your solution in one aspect, e.g. elegance or performance (participants might benefit from your ideas)
 - ... you believe your solution brings a new perspective on the problem, e.g. through an unconventional use of packages
