@@ -36,3 +36,9 @@ After our meetings, every participant, not only the ones who showcased their sol
 - Best performance (might be tricky to compare but we will try)
 
 In case you fulfill any of this criteria, your file will be renamed to `Hans_(most_elegant).py` and you can eternally be proud of your achievement!
+
+## Past Meetings
+
+| Provider | Date | Topic |
+| -------- | ---- | ----- |
+| Max      | 20.11.2023 | Annotation of tabularly arranged images |
