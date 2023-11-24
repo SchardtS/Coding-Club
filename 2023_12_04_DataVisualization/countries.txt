@@ -1,0 +1,194 @@
+Name	Code
+Afghanistan	red
+Albania	orange
+Algeria	orange
+Andorra	green
+Angola	orange
+Antigua and Barbuda	red
+Argentina	red
+Armenia	orange
+Australia	green
+Austria	green
+Azerbaijan	red
+Bahamas	red
+Bahrain	red
+Bangladesh	red
+Barbados	red
+Belarus	orange
+Belgium	green
+Belize	red
+Benin	red
+Bhutan	orange
+Bolivia	green
+Bosnia and Herzegovina	orange
+Botswana	red
+Brazil	green
+Brunei Darussalam	red
+Bulgaria	orange
+Burkina Faso	red
+Burundi	red
+Cambodia	orange
+Cameroon	red
+Canada	green
+Cape Verde	red
+Central African Republic	red
+Chad	red
+Chile	red
+China	green
+Colombia	orange
+Comoros	red
+Congo, Republic of the	red
+Costa Rica	orange
+Côte d'Ivoire	green
+Croatia	orange
+Cuba	red
+Cyprus	green
+Czech Republic	green
+Democratic People's Republic of Korea	red
+Democratic Republic of the Congo	red
+Denmark	green
+Djibouti	red
+Dominica	red
+Dominican Republic	red
+Ecuador	red
+Egypt	orange
+El Salvador	red
+Equatorial Guinea	red
+Eritrea	red
+Estonia	orange
+Ethiopia	red
+Fiji	red
+Finland	green
+France	green
+Gabon	red
+Gambia	red
+Georgia	orange
+Germany	green
+Ghana	red
+Greece	green
+Grenada	red
+Guatemala	red
+Guinea	red
+Guinea-Bissau	red
+Guyana	red
+Haiti	red
+Honduras	red
+Hungary	green
+Iceland	orange
+India	green
+Indonesia	red
+Iran, Islamic Republic of	orange
+Iraq	red
+Ireland	green
+Israel	orange
+Italy	green
+Jamaica	red
+Japan	green
+Jordan	orange
+Kazakhstan	red
+Kenya	red
+Kiribati	red
+Kuwait	red
+Kyrgyzstan	red
+Lao People's Democratic Republic	green
+Latvia	green
+Lebanon	orange
+Lesotho	red
+Liberia	red
+Libyan Arab Jamahiriya	red
+Liechtenstein	green
+Lithuania	orange
+Luxembourg	green
+Madagascar	orange
+Malawi	red
+Malaysia	red
+Maldives	red
+Mali	red
+Malta	green
+Marshall Islands	red
+Mauritania	red
+Mauritius	red
+Mexico	orange
+Micronesia, Federated States of	red
+Moldova	orange
+Monaco	green
+Mongolia	red
+Montenegro	orange
+Morocco	green
+Mozambique	red
+Myanmar	green
+Namibia	red
+Nauru	red
+Nepal	orange
+Netherlands	green
+New Zealand	red
+Nicaragua	red
+Niger	red
+Nigeria	red
+Norway	green
+Oman	red
+Pakistan	orange
+Palau	red
+Panama	red
+Papua New Guinea	red
+Paraguay	red
+Peru	red
+Philippines	orange
+Poland	green
+Portugal	green
+Qatar	red
+Republic of Korea	orange
+Romania	green
+Russian Federation	green
+Rwanda	red
+Saint Kitts and Nevis	red
+Saint Lucia	red
+Saint Vincent and the Grenadines	red
+Samoa	red
+San Marino	orange
+Sao Tome and Principe	red
+Saudi Arabia	red
+Senegal	red
+Serbia	orange
+Seychelles	red
+Sierra Leone	red
+Singapore	orange
+Slovakia	orange
+Slovenia	green
+Solomon Islands	red
+Somalia	red
+South Africa	red
+Spain	green
+Sri Lanka	red
+Sudan	orange
+Suriname	red
+Swaziland	red
+Sweden	green
+Switzerland	green
+Syrian Arab Republic	red
+Tajikistan	red
+Thailand	green
+The former Yugoslav Republic of Macedonia	orange
+Timor-Leste	red
+Togo	red
+Tonga	red
+Trinidad and Tobago	red
+Tunisia	red
+Turkey	green
+Turkmenistan	red
+Tuvalu	red
+Uganda	red
+Ukraine	orange
+United Arab Emirates	red
+United Kingdom of Great Britain and Northern Ireland	green
+United Republic of Tanzania	red
+United States of America	green
+Uruguay	red
+Uzbekistan	red
+Vatican	green
+Vanuatu	red
+Venezuela, Bolivarian Republic of	red
+Viet Nam	green
+Yemen	red
+Zambia	red
+Zimbabwe	red
