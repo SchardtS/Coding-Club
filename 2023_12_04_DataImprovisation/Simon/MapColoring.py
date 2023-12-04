@@ -20,14 +20,15 @@ fig.add_trace(go.Choropleth(
 
 # Update some plotting parameters
 fig.update_geos(
-    #projection_type="orthographic",
+    projection_type="orthographic",
     #projection_type="natural earth",
-    projection_type="azimuthal equidistant",
+    #projection_type="azimuthal equidistant",
     showcountries=True, countrycolor="Black",
     showocean=True, oceancolor="LightBlue",
     showlakes=True, lakecolor="Blue",
     showcoastlines=True, coastlinecolor="Black",
     lataxis_showgrid=True, lonaxis_showgrid=True,
+    showrivers=True, rivercolor="Blue"
 )
 
-fig.write_html('colored_world_map_3.html')
+fig.write_html('2023_12_04_DataImprovisation/Simon/colored_world_map_1.html')
