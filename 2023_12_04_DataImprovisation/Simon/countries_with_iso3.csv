@@ -1,0 +1,194 @@
+Name,Code,ISO-3,Color_value,Text
+Afghanistan,red,AFG,1.0,Fucked up!
+Albania,orange,ALB,0.5,Oh no ...
+Algeria,orange,DZA,0.5,Oh no ...
+Andorra,green,AND,0.0,OK
+Angola,orange,AGO,0.5,Oh no ...
+Antigua and Barbuda,red,ATG,1.0,Fucked up!
+Argentina,red,ARG,1.0,Fucked up!
+Armenia,orange,ARM,0.5,Oh no ...
+Australia,green,AUS,0.0,OK
+Austria,green,AUT,0.0,OK
+Azerbaijan,red,AZE,1.0,Fucked up!
+Bahamas,red,BHS,1.0,Fucked up!
+Bahrain,red,BHR,1.0,Fucked up!
+Bangladesh,red,BGD,1.0,Fucked up!
+Barbados,red,BRB,1.0,Fucked up!
+Belarus,orange,BLR,0.5,Oh no ...
+Belgium,green,BEL,0.0,OK
+Belize,red,BLZ,1.0,Fucked up!
+Benin,red,BEN,1.0,Fucked up!
+Bhutan,orange,BTN,0.5,Oh no ...
+Bolivia,green,BOL,0.0,OK
+Bosnia and Herzegovina,orange,BIH,0.5,Oh no ...
+Botswana,red,BWA,1.0,Fucked up!
+Brazil,green,BRA,0.0,OK
+Brunei Darussalam,red,BRN,1.0,Fucked up!
+Bulgaria,orange,BGR,0.5,Oh no ...
+Burkina Faso,red,BFA,1.0,Fucked up!
+Burundi,red,BDI,1.0,Fucked up!
+Cambodia,orange,KHM,0.5,Oh no ...
+Cameroon,red,CMR,1.0,Fucked up!
+Canada,green,CAN,0.0,OK
+Cape Verde,red,CPV,1.0,Fucked up!
+Central African Republic,red,CAF,1.0,Fucked up!
+Chad,red,TCD,1.0,Fucked up!
+Chile,red,CHL,1.0,Fucked up!
+China,green,CHN,0.0,OK
+Colombia,orange,COL,0.5,Oh no ...
+Comoros,red,COM,1.0,Fucked up!
+"Congo, Republic of the",red,COG,1.0,Fucked up!
+Costa Rica,orange,CRI,0.5,Oh no ...
+Côte d'Ivoire,green,CIV,0.0,OK
+Croatia,orange,HRV,0.5,Oh no ...
+Cuba,red,CUB,1.0,Fucked up!
+Cyprus,green,CYP,0.0,OK
+Czech Republic,green,CZE,0.0,OK
+Democratic People's Republic of Korea,red,PRK,1.0,Fucked up!
+Democratic Republic of the Congo,red,COD,1.0,Fucked up!
+Denmark,green,DNK,0.0,OK
+Djibouti,red,DJI,1.0,Fucked up!
+Dominica,red,DMA,1.0,Fucked up!
+Dominican Republic,red,DOM,1.0,Fucked up!
+Ecuador,red,ECU,1.0,Fucked up!
+Egypt,orange,EGY,0.5,Oh no ...
+El Salvador,red,SLV,1.0,Fucked up!
+Equatorial Guinea,red,GNQ,1.0,Fucked up!
+Eritrea,red,ERI,1.0,Fucked up!
+Estonia,orange,EST,0.5,Oh no ...
+Ethiopia,red,ETH,1.0,Fucked up!
+Fiji,red,FJI,1.0,Fucked up!
+Finland,green,FIN,0.0,OK
+France,green,FRA,0.0,OK
+Gabon,red,GAB,1.0,Fucked up!
+Gambia,red,GMB,1.0,Fucked up!
+Georgia,orange,GEO,0.5,Oh no ...
+Germany,green,DEU,0.0,OK
+Ghana,red,GHA,1.0,Fucked up!
+Greece,green,GRC,0.0,OK
+Grenada,red,GRD,1.0,Fucked up!
+Guatemala,red,GTM,1.0,Fucked up!
+Guinea,red,GIN,1.0,Fucked up!
+Guinea-Bissau,red,GNB,1.0,Fucked up!
+Guyana,red,GUY,1.0,Fucked up!
+Haiti,red,HTI,1.0,Fucked up!
+Honduras,red,HND,1.0,Fucked up!
+Hungary,green,HUN,0.0,OK
+Iceland,orange,ISL,0.5,Oh no ...
+India,green,IND,0.0,OK
+Indonesia,red,IDN,1.0,Fucked up!
+"Iran, Islamic Republic of",orange,IRN,0.5,Oh no ...
+Iraq,red,IRQ,1.0,Fucked up!
+Ireland,green,IRL,0.0,OK
+Israel,orange,ISR,0.5,Oh no ...
+Italy,green,ITA,0.0,OK
+Jamaica,red,JAM,1.0,Fucked up!
+Japan,green,JPN,0.0,OK
+Jordan,orange,JOR,0.5,Oh no ...
+Kazakhstan,red,KAZ,1.0,Fucked up!
+Kenya,red,KEN,1.0,Fucked up!
+Kiribati,red,KIR,1.0,Fucked up!
+Kuwait,red,KWT,1.0,Fucked up!
+Kyrgyzstan,red,KGZ,1.0,Fucked up!
+Lao People's Democratic Republic,green,LAO,0.0,OK
+Latvia,green,LVA,0.0,OK
+Lebanon,orange,LBN,0.5,Oh no ...
+Lesotho,red,LSO,1.0,Fucked up!
+Liberia,red,LBR,1.0,Fucked up!
+Libyan Arab Jamahiriya,red,LBY,1.0,Fucked up!
+Liechtenstein,green,LIE,0.0,OK
+Lithuania,orange,LTU,0.5,Oh no ...
+Luxembourg,green,LUX,0.0,OK
+Madagascar,orange,MDG,0.5,Oh no ...
+Malawi,red,MWI,1.0,Fucked up!
+Malaysia,red,MYS,1.0,Fucked up!
+Maldives,red,MDV,1.0,Fucked up!
+Mali,red,MLI,1.0,Fucked up!
+Malta,green,MLT,0.0,OK
+Marshall Islands,red,MHL,1.0,Fucked up!
+Mauritania,red,MRT,1.0,Fucked up!
+Mauritius,red,MUS,1.0,Fucked up!
+Mexico,orange,MEX,0.5,Oh no ...
+"Micronesia, Federated States of",red,FSM,1.0,Fucked up!
+Moldova,orange,MDA,0.5,Oh no ...
+Monaco,green,MCO,0.0,OK
+Mongolia,red,MNG,1.0,Fucked up!
+Montenegro,orange,MNE,0.5,Oh no ...
+Morocco,green,MAR,0.0,OK
+Mozambique,red,MOZ,1.0,Fucked up!
+Myanmar,green,MMR,0.0,OK
+Namibia,red,NAM,1.0,Fucked up!
+Nauru,red,NRU,1.0,Fucked up!
+Nepal,orange,NPL,0.5,Oh no ...
+Netherlands,green,NLD,0.0,OK
+New Zealand,red,NZL,1.0,Fucked up!
+Nicaragua,red,NIC,1.0,Fucked up!
+Niger,red,NER,1.0,Fucked up!
+Nigeria,red,NGA,1.0,Fucked up!
+Norway,green,NOR,0.0,OK
+Oman,red,OMN,1.0,Fucked up!
+Pakistan,orange,PAK,0.5,Oh no ...
+Palau,red,PLW,1.0,Fucked up!
+Panama,red,PAN,1.0,Fucked up!
+Papua New Guinea,red,PNG,1.0,Fucked up!
+Paraguay,red,PRY,1.0,Fucked up!
+Peru,red,PER,1.0,Fucked up!
+Philippines,orange,PHL,0.5,Oh no ...
+Poland,green,POL,0.0,OK
+Portugal,green,PRT,0.0,OK
+Qatar,red,QAT,1.0,Fucked up!
+Republic of Korea,orange,KOR,0.5,Oh no ...
+Romania,green,ROU,0.0,OK
+Russian Federation,green,RUS,0.0,OK
+Rwanda,red,RWA,1.0,Fucked up!
+Saint Kitts and Nevis,red,KNA,1.0,Fucked up!
+Saint Lucia,red,LCA,1.0,Fucked up!
+Saint Vincent and the Grenadines,red,VCT,1.0,Fucked up!
+Samoa,red,WSM,1.0,Fucked up!
+San Marino,orange,SMR,0.5,Oh no ...
+Sao Tome and Principe,red,STP,1.0,Fucked up!
+Saudi Arabia,red,SAU,1.0,Fucked up!
+Senegal,red,SEN,1.0,Fucked up!
+Serbia,orange,SRB,0.5,Oh no ...
+Seychelles,red,SYC,1.0,Fucked up!
+Sierra Leone,red,SLE,1.0,Fucked up!
+Singapore,orange,SGP,0.5,Oh no ...
+Slovakia,orange,SVK,0.5,Oh no ...
+Slovenia,green,SVN,0.0,OK
+Solomon Islands,red,SLB,1.0,Fucked up!
+Somalia,red,SOM,1.0,Fucked up!
+South Africa,red,ZAF,1.0,Fucked up!
+Spain,green,ESP,0.0,OK
+Sri Lanka,red,LKA,1.0,Fucked up!
+Sudan,orange,SDN,0.5,Oh no ...
+Suriname,red,SUR,1.0,Fucked up!
+Swaziland,red,SWZ,1.0,Fucked up!
+Sweden,green,SWE,0.0,OK
+Switzerland,green,CHE,0.0,OK
+Syrian Arab Republic,red,SYR,1.0,Fucked up!
+Tajikistan,red,TJK,1.0,Fucked up!
+Thailand,green,THA,0.0,OK
+The former Yugoslav Republic of Macedonia,orange,MKD,0.5,Oh no ...
+Timor-Leste,red,TLS,1.0,Fucked up!
+Togo,red,TGO,1.0,Fucked up!
+Tonga,red,TON,1.0,Fucked up!
+Trinidad and Tobago,red,TTO,1.0,Fucked up!
+Tunisia,red,TUN,1.0,Fucked up!
+Turkey,green,TUR,0.0,OK
+Turkmenistan,red,TKM,1.0,Fucked up!
+Tuvalu,red,TUV,1.0,Fucked up!
+Uganda,red,UGA,1.0,Fucked up!
+Ukraine,orange,UKR,0.5,Oh no ...
+United Arab Emirates,red,ARE,1.0,Fucked up!
+United Kingdom of Great Britain and Northern Ireland,green,GBR,0.0,OK
+United Republic of Tanzania,red,TZA,1.0,Fucked up!
+United States of America,green,USA,0.0,OK
+Uruguay,red,URY,1.0,Fucked up!
+Uzbekistan,red,UZB,1.0,Fucked up!
+Vatican,green,VAT,0.0,OK
+Vanuatu,red,VUT,1.0,Fucked up!
+"Venezuela, Bolivarian Republic of",red,VEN,1.0,Fucked up!
+Viet Nam,green,VNM,0.0,OK
+Yemen,red,YEM,1.0,Fucked up!
+Zambia,red,ZMB,1.0,Fucked up!
+Zimbabwe,red,ZWE,1.0,Fucked up!
