@@ -39,6 +39,8 @@ In case you fulfill any of this criteria, your file will be renamed to `Hans_(mo
 
 ## Past Meetings
 
-| Provider | Date | Topic |
-| -------- | ---- | ----- |
-| Max      | 20.11.2023 | Annotation of tabularly arranged images |
+| Provider | Date | Time | Topic |
+| -------- | ---- | ---- | ----- |
+| TBD      | 18.12.2023 | 13:00 | TBD |
+| Robin    | 04.12.2023 | 13:00 | Data improvisation / World map coloring |
+| Max      | 20.11.2023 | 14:00 | Annotation of tabularly arranged images |
