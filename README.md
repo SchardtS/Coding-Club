@@ -30,7 +30,7 @@ Showcasing your code is not intended to be used for rating and/or criticizing yo
 
 ## Recognition
 
-After our meetings, every participant, not only the ones who showcased their solution, is encouraged to push their solutions on this repository. This helps us to manage past content, but also provides an incentive to get some practice with GitHub. In order to do this, just include your solution in whatever format you used (e.g. .ipynb, .py, .jl, ...) to the repository. Simply name your file after yourself for easier recognition, e.g. `Hans.py`, or in the case of duplicate names `Hans_F.py`. Additionally, we want to create additional recognition for the showcased solutions which fulfill certain criteria:
+After our meetings, every participant, not only the ones who showcased their solution, is encouraged to push their solutions on this repository. This helps us to manage past content, but also provides an incentive to get some practice with GitHub. In order to do this, just include your solution in whatever format you used (e.g. .ipynb, .py, .jl, ...) to the repository. For more than one file, put it in a directory. Simply name your file/directory after yourself for easier recognition, e.g. `Hans.py`, or in the case of duplicate names `Hans_F.py`. Additionally, we want to create additional recognition for the showcased solutions which fulfill certain criteria:
 - The most elegant solution
 - The fewest lines of code (not counting empty lines)
 - Best performance (might be tricky to compare but we will try)
