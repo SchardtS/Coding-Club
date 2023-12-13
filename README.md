@@ -37,10 +37,10 @@ After our meetings, every participant, not only the ones who showcased their sol
 
 In case you fulfill any of this criteria, your file will be renamed to `Hans_(most_elegant).py` and you can eternally be proud of your achievement!
 
-## Past Meetings
+## Upcoming and Past Meetings
 
 | Provider | Date | Time | Topic |
 | -------- | ---- | ---- | ----- |
-| TBD      | 18.12.2023 | 13:00 | TBD |
+| Simon    | 18.12.2023 | 13:00 | Sorting algorithms |
 | Robin    | 04.12.2023 | 13:00 | Data improvisation / World map coloring |
 | Max      | 20.11.2023 | 14:00 | Annotation of tabularly arranged images |
