@@ -12,7 +12,7 @@ The first time step $u_0$ is an initial condition which is usually specified bef
 
 ## Challenges
 
-Try to solve at least one of these and plot your solution, i.e. $u(t)$.
+Try to solve at least one of the following ODEs and plot your solution, i.e. $u(t)$. The purpose of this series of exercises is to better understand the mechanisms behind the algorithms, so no ready-made libraries should be used to solve these problems. Ideally, we will have our own set of algorithms to play around with during this series.
 
 ### Logistic growth equation
 
