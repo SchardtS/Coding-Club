@@ -42,6 +42,7 @@ The following parameters were handpicked to give you a nice picture in the end:
 </center>
 
 Although the equation looks a bit more intimidating, the implementation remains straightforward just with three equations instead of one, i.e. you need three iterations in one time steps
+
 $$\begin{align*}
 S_{k+1} &= \dots \\
 I_{k+1} &= \dots \\
