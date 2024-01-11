@@ -17,19 +17,29 @@ Try to solve at least one of these and plot your solution, i.e. $u(t)$.
 ### Logistic growth equation
 
 Logistic growth is widely used in population dynamics to describe the self limiting growth of a biological population. Solve the following equation
-$$ \frac{du}{dt} = u(1-u), \qquad u_0 = 10^{-6}, \, T = 100$$
+
+$$\frac{du}{dt} = u(1-u), \qquad u_0 = 10^{-6}, T = 100$$
 
 
 ### SIR Model
 
-The SIR model aims to describe the course of an epidemic by considering the population of susceptible (S), infected (I) and removed (R) individuals and their interactions towards each other.
+The SIR model aims to describe the course of an epidemic by considering the population of susceptible (S), infected (I) and removed (R) individuals and their interactions towards each other. The equations describe three individual population given by the following set of equations:
 
 $$\begin{align*}
 \frac{dS}{dt} &= \nu (S + I + R) - \beta \frac{S I}{S + I + R} - \mu S \\
 \frac{dI}{dt} &= \beta \frac{SI}{S + I + R} - \gamma I - \mu I \\
-\frac{dR}{dt} &= \gamma I - \mu R \\
-S_0 &= 1000, \, I_0 = 3,\,  R_0 = 0,\,  \beta = 0.4,\,  \nu = 0,\,  \gamma = 0.04,\,  \mu = 0, T = 200
+\frac{dR}{dt} &= \gamma I - \mu R
 \end{align*}$$
+
+The following parameters were handpicked to give you a nice picture in the end:
+
+<center>
+
+|Parameter | $S_0$  | $I_0$ | $R_0$ | $T$   | $\beta$ | $\nu$ | $\gamma$ | $\mu$ |
+|:--------:|:------:|:-----:|:-----:|:-----:|:-------:|:-----:|:--------:|:-----:|
+| Value    | $1000$ | $3$   | $0$   | $200$ | $0.4$   | $0$   | $0.04$   | $0$   |
+
+</center>
 
 Although the equation looks a bit more intimidating, the implementation remains straightforward just with three equations instead of one, i.e. you need three iterations in one time steps
 $$\begin{align*}
