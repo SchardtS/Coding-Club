@@ -41,7 +41,7 @@ In case you fulfill any of this criteria, your file will be renamed to `Hans_(mo
 
 | Provider | Date | Time | Topic |
 | -------- | ---- | ---- | ----- |
-| TBD      | 15.01.2024 | 13:00 | TBD |
+| Simon    | 22.01.2024 | 13:00 | Solving ODEs |
 | Simon    | 18.12.2023 | 13:00 | Sorting algorithms |
 | Robin    | 04.12.2023 | 13:00 | Data improvisation / World map coloring |
 | Max      | 20.11.2023 | 14:00 | Annotation of tabularly arranged images |
