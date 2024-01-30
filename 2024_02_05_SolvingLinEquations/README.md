@@ -12,7 +12,9 @@ $$Ax = b \qquad \text{also written as} \qquad \begin{pmatrix} a_{11} & \cdots & 
    a_{n1} & \cdots & a_{nn}\end{pmatrix}
    \begin{pmatrix} x_1 \\ \vdots \\ x_n \end{pmatrix} = \begin{pmatrix} b_1 \\ \vdots \\ b_n \end{pmatrix}$$
 
-$$Ax = b \qquad \text{also written as} \begin{bmatrix} b_1 \\ \vdots \\ b_n \end{bmatrix}$$
+```math
+Ax = b \qquad \text{also written as} \begin{bmatrix} b_1 \\ \vdots \\ b_n \end{bmatrix}
+```
 where $A$ is a given matrix and $b$ a given vector. The goal is to find the values of $x$.
 
 ## Challenges
