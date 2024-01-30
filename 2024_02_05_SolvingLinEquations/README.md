@@ -7,13 +7,11 @@ $$u_{k+1} = u_k + \Delta t f(u_k).$$
 to the implicit Euler method.
 $$u_{k+1} = u_k + \Delta t f(u_{k+1}).$$
 As you can see, the right-hand side now also depends on $u_{k+1}$, so it cannot be solved as simple as before. Instead, it requires us to be able to solve either linear or nonlinear equations. In this exercise we will try to shed light on how to solve linear equations numerically, i.e. equations of the Form
-$$Ax = b \qquad \text{also written as} \qquad \begin{pmatrix} a_{11} & \cdots & a_{1n} \\
+```math
+Ax = b \qquad \text{also written as} \qquad \begin{pmatrix} a_{11} & \cdots & a_{1n} \\
    \vdots & \ddots & \vdots \\
    a_{n1} & \cdots & a_{nn}\end{pmatrix}
-   \begin{pmatrix} x_1 \\ \vdots \\ x_n \end{pmatrix} = \begin{pmatrix} b_1 \\ \vdots \\ b_n \end{pmatrix}$$
-
-```math
-Ax = b \qquad \text{also written as} \begin{bmatrix} b_1 \\ \vdots \\ b_n \end{bmatrix}
+   \begin{pmatrix} x_1 \\ \vdots \\ x_n \end{pmatrix} = \begin{pmatrix} b_1 \\ \vdots \\ b_n \end{pmatrix}
 ```
 where $A$ is a given matrix and $b$ a given vector. The goal is to find the values of $x$.
 
