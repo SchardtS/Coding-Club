@@ -14,8 +14,9 @@ Ax = b \qquad \text{also written as} \qquad \begin{pmatrix} a_{11} & \cdots & a_
    \begin{pmatrix} x_1 \\ \vdots \\ x_n \end{pmatrix} = \begin{pmatrix} b_1 \\ \vdots \\ b_n \end{pmatrix}
 ```
 where $A$ is a given matrix and $b$ a given vector. The goal is to find the values of $x$.
+$$\begin{bmatrix} a & b & c \end{bmatrix}$$
 
-## Challenges
+## Challenge
 
 There are various methods to solve linear equations, most famously the Gauß elimination method you might already have used in school. However, due to the poor complexity of $\mathcal{O}(n^3)$, one sometimes resorts to iterative methods instead, sacrificing accuracy for reduced computation time. In the following is a collection of various methods for solving linear equations:
 
