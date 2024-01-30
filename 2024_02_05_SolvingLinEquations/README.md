@@ -14,7 +14,11 @@ Ax = b \qquad \text{also written as} \qquad \begin{pmatrix} a_{11} & \cdots & a_
    \begin{pmatrix} x_1 \\ \vdots \\ x_n \end{pmatrix} = \begin{pmatrix} b_1 \\ \vdots \\ b_n \end{pmatrix}
 ```
 where $A$ is a given matrix and $b$ a given vector. The goal is to find the values of $x$.
-$$\begin{bmatrix} a & b & c \end{bmatrix}$$
+$$  \begin{bmatrix}
+    a \\
+    b \\
+    c \\
+    \end{bmatrix} $$ 
 
 ## Challenge
 
