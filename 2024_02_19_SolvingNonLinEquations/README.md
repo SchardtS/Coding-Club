@@ -26,10 +26,12 @@ Implement Newton's method as a function. It should take at least three input var
 
 ### Exponential functions
 - Function: $f(x) = e^{-x^2} + \frac{1/10}x$
+- Derivative: Try it for yourself!
 
 ### Complex functions
 - Function: $f(z) = z^5 + 1$ with complex numbers $z = x + iy$
+- Derivative: Try it for yourself!
 
 ### Two dimensions
-- Function: $f(x, y) = \begin{pmatrix} e^{-x^2 - y^2} + \frac{1}{2} \\ x^2 \end{pmatrix}$
-- Derivative: $f'(x, y) = \begin{pmatrix} - 2x e^{-x^2-y^2} & - 2y e^{-x^2-y^2} \\ 2x & 0 \end{pmatrix}$
+- Function: ```math f(x, y) = \begin{pmatrix} e^{-x^2 - y^2} + \frac{1}{2} \\ x^2 \end{pmatrix}```
+- Derivative: ```math f'(x, y) = \begin{pmatrix} - 2x e^{-x^2-y^2} & - 2y e^{-x^2-y^2} \\ 2x & 0 \end{pmatrix} ```
