@@ -25,7 +25,7 @@ Implement Newton's method as a function. It should take at least three input var
 - Derivative: $f'(x) = 4x^3 - 20x$
 
 ### Exponential functions
-- Function: $f(x) = e^{-x^2} + \frac{1/10}x$
+- Function: $f(x) = e^{-x^2} + \frac{1}{10}x$
 - Derivative: Try it for yourself!
 
 ### Complex functions
