@@ -8,7 +8,7 @@ On our way to solve any kind of ODE, we have already seen how to solve linear eq
 - Start with an initial value $x_0$
 - Follow the iteration $x_{n+1} = x_{n} - f'(x_n)^{-1}f(x_n)$ until $f(x_n)$ is close to $0$
 
-If the function is one dimensional, then the iteration can also be written as $x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}$. In higher dimensions, e.g. 2D function with two variables, the derivative of a function at any point $x$ is no longer a scalar value but rather a matrix (also called [Jacobi matrix](https://de.wikipedia.org/wiki/Jacobi-Matrix)). This means, that $f'(x_n)^{-1}f(x_n)$ is actually nothing else than the solution $y$ to the linear equation $f'(x^{(n)})y = f(x^{(n)})$. From our previous meeting, we already know how to solve these types of equations ($Ay=b$). In total, each iteration consists of two essential steps:
+If the function is one dimensional, then the iteration can also be written as $x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}$. In higher dimensions, e.g. 2D function with two variables, the derivative of a function at any point $x$ is no longer a scalar value but rather a matrix (also called [Jacobi matrix](https://de.wikipedia.org/wiki/Jacobi-Matrix)). This means, that $f'(x_n)^{-1}f(x_n)$ is actually nothing else than the solution $y$ to the linear equation $f'(x_n)y = f(x_n)$. From our previous meeting, we already know how to solve these types of equations ($Ay=b$). In total, each iteration consists of two essential steps:
 
 - Solve linear equation $f'(x_n)y = f(x_n)$
 - Calculate next step $x_{n+1} = x_n - f'(x_n)^{-1}f(x_n)$
