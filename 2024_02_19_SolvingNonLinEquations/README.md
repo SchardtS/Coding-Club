@@ -41,3 +41,5 @@ f(x, y) = \begin{pmatrix} e^{-x^2 - y^2} + \frac{1}{2} \\ x^2 \end{pmatrix}
 ```math
 f'(x, y) = \begin{pmatrix} - 2x e^{-x^2-y^2} & - 2y e^{-x^2-y^2} \\ 2x & 0 \end{pmatrix}
 ```
+
+Three of these examples have more than one solution. Can you find them all?
