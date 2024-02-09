@@ -35,7 +35,7 @@ Implement Newton's method as a function. It should take at least three input var
 ### Two dimensions
 - Function:
 ```math
-f(x, y) = \begin{pmatrix} e^{-x^2 - y^2} + \frac{1}{2} \\ x^2 \end{pmatrix}
+f(x, y) = \begin{pmatrix} e^{-x^2 - y^2} - \frac{1}{2} \\ x^2 \end{pmatrix}
 ```
 - Derivative:
 ```math
