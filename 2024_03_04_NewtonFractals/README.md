@@ -6,7 +6,7 @@ In our last meeting, we already learned about Newton's method to solve equations
 $$f(z) = z^5 - 1$$
 has exactly five roots in the complex plane, i.e. values which fulfill $f(z)=0$. Complex numbers are a combination of real numbers $x, y \in \mathbb{R}$ together with the imaginary unit $i$ which is defined by $i^2 = -1$. They look like this
 $$z = x + iy$$
-where $x$ is called the real part and $y$ the imaginary part of $z$. For simplification, think of them like 2D numbers with $x$ and $y$ value, which is also how you will want to treat them for visualization. In Python, the imaginary unit $i$ is defined by `1j`, whereas in Julia it is defined by `1im`. The complex number $5 - 3i$ can then be programmed by `5 - 3*1j` or `5 - 3*1im` respectively.
+where $x$ is called the real part and $y$ the imaginary part of $z$. For simplification, think of them like 2D numbers with $x$ and $y$ value, which is also how you will want to treat them for visualization. In Python, the imaginary unit $i$ is defined by `1j`, whereas in Julia it is defined by `1im`. For example, the complex number $5 - 3i$ can be programmed by `5 - 3*1j` in Python or `5 - 3*1im` in Julia respectively.
 
 Now for the fractal part, we have already seen last time that we need different initial values for our Newton iteration to converge to all five different roots of $f$. However, I chose very specific points for which I previously tested that they would converge to the desired values. If one applies Newton's method to a complex valued function $f$ for all of the initial values in a given range of $x$ and $y$ and colorize the specific point in the plane depending on which solution we get, the result will be a fractal. In short:
 
