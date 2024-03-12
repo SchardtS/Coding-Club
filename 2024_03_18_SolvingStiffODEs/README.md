@@ -3,10 +3,12 @@
 ## Introduction
 
 Now that we know how to solve linear and nonlinear equations, we are ready to see another side of ordinary differential equations (ODEs). Without an exact definition, a stiff ODE is usually an equation that operates on different time scales for different variables, meaning that one of them changes rapidly compared to the other. These rapid changes can often lead to numerical instabilities, where the numerical solution will either start to oscillate or explode. Luckily, implicit methods can be used to overcome this problem. The idea behind implicit methods is that the right hand side of the differential equation should be considered not at the current time step, but rather at the next one. For a differential equation $\frac{du}{dt} = f(u)$ we compare the explicit and implicit Euler methods:
+
 $$\begin{align*} 
 \text{Explicit Euler Method:} \qquad && u_{k+1} &= u_k + \Delta t f(u_k) \\
 \text{Implicit Euler Method:} \qquad && u_{k+1} &= u_k + \Delta t f(u_{k+1})
 \end{align*}$$
+
 While the explicit method is easily iterated, the implicit one requires us to solve a nonlinear equation $u_{k+1} - u_k + \Delta t f(u_{k+1}) = 0$ for the unknown variable $u_{k+1}$ which we already know how to do!
 
 ## Challenges
@@ -22,10 +24,12 @@ Use the initial condition $u_0 = 0$ and try to evaluate this function in the tim
 ### Transcriptional Regulation
 
 In a system where two proteins inhibit each others transcriptional regulation, the equations might look like this:
+
 $$\begin{align*} 
 \frac{du}{dt} &= r_u \frac{\eta_u u}{1 + \eta_u u + \eta_v v} - gamma_u u \\
 \frac{du}{dt} &= r_v \frac{\eta_v v}{1 + \eta_u u + \eta_v v} - gamma_v v
 \end{align*}$$
+
 Try to implement this using the explicit and the implicit Euler method. Compare both numerical solutions! Use the following parameters and initial conditions:
 
 ````python
