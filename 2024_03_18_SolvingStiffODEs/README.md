@@ -26,20 +26,20 @@ Use the initial condition $u_0 = 0$ and try to evaluate this function in the tim
 In a system where two proteins inhibit each others transcriptional regulation, the equations might look like this:
 
 $$\begin{align*} 
-\frac{du}{dt} &= r_u \frac{\eta_u u}{1 + \eta_u u + \eta_v v} - gamma_u u \\
-\frac{du}{dt} &= r_v \frac{\eta_v v}{1 + \eta_u u + \eta_v v} - gamma_v v
+\frac{du}{dt} &= r_u \frac{\eta_u u}{1 + \eta_u u + \eta_v v} - \gamma_u u \\
+\frac{du}{dt} &= r_v \frac{\eta_v v}{1 + \eta_u u + \eta_v v} - \gamma_v v
 \end{align*}$$
 
 Try to implement this using the explicit and the implicit Euler method. Compare both numerical solutions! Use the following parameters and initial conditions:
 
 ````python
 # Modell Parameters
-eta_x = 1
-eta_y = 1
-r_x = 1
-r_y = 1000
-gamma_x = 1
-gamma_y = 500
+eta_u = 1
+eta_v = 1
+r_u = 1
+r_v = 1000
+gamma_u = 1
+gamma_v = 500
 
 # Discretization parameters
 T = 10      # Simulation time
