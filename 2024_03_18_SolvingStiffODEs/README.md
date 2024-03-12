@@ -74,5 +74,5 @@ vy0 = [0.747443868604908, 1.369241993562101, -2.116685862168820]
 ````
 
 This system is not considered a stiff ODE, but it allows us to look at another property of numerical methods, their convergence order. Using only a slight modification of the implicit Euler method will already allow you to see the difference, therefore you have to implement the updating step like this:
-$$u_{k+1} = u_{k} + \Delta t \left(\frac{f(u_{k+1}) + f(u_k)}{2}\right)$$
-If you have implemented the implicit Euler method, then you should be able to implement this by changing a single line.
+$$u_{k+1} = u_{k} + \Delta t \frac{f(u_{k+1}) + f(u_k)}{2}$$
+If you have implemented the implicit Euler method before, then you should be able to implement this by changing a single line.
