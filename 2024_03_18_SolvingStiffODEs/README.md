@@ -33,7 +33,7 @@ $$\begin{align*}
 Try to implement this using the explicit and the implicit Euler method. Compare both numerical solutions! Use the following parameters and initial conditions:
 
 ````python
-# Modell Parameters
+# Model Parameters
 eta_u = 1
 eta_v = 1
 r_u = 1
