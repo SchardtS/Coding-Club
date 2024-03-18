@@ -9,7 +9,7 @@ $$\begin{align*}
 \text{Implicit Euler Method:} \qquad && u_{k+1} &= u_k + \Delta t f(u_{k+1})
 \end{align*}$$
 
-While the explicit method is easily iterated, the implicit one requires us to solve a nonlinear equation $u_{k+1} - u_k + \Delta t f(u_{k+1}) = 0$ for the unknown variable $u_{k+1}$ which we already know how to do!
+While the explicit method is easily iterated, the implicit one requires us to solve a nonlinear equation $u_{k+1} - u_k - \Delta t f(u_{k+1}) = 0$ for the unknown variable $u_{k+1}$ which we already know how to do!
 
 ## Challenges
 
