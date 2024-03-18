@@ -41,6 +41,7 @@ In case you fulfill any of this criteria, your file will be renamed to `Hans_(mo
 
 | Provider | Date | Time | Topic |
 | -------- | ---- | ---- | ----- |
+| Simon    | 18.03.2024 | 14:00 | Solving stiff ODEs |
 | Simon    | 04.03.2024 | 14:00 | Newton fractals |
 | Simon    | 19.02.2024 | 13:00 | Solving nonlinear equations |
 | Simon    | 05.02.2024 | 13:00 | Solving linear equations |
